@@ -55,4 +55,4 @@ theme: jekyll-theme-minimal
 ### Contact
 
 📧 **m.m.olson [at] lse [dot] ac [dot] uk**  
-🐦 **[@marymolson](https://twitter.com/MaryMOlson98)**
+🐦 **[@MaryMOlson98](https://twitter.com/MaryMOlson98)**
