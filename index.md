@@ -1,70 +1,58 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Mary Olson</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            max-width: 800px;
-            margin: 40px auto;
-            line-height: 1.6;
-            padding: 0 20px;
-        }
-        header {
-            display: flex;
-            align-items: center;
-            gap: 20px;
-        }
-        img {
-            width: 160px;
-            border-radius: 8px;
-        }
-        nav {
-            margin-top: 20px;
-        }
-        nav a {
-            margin-right: 20px;
-            text-decoration: none;
-            font-weight: bold;
-            color: #003366;
-        }
-        nav a:hover {
-            text-decoration: underline;
-        }
-    </style>
-</head>
+---
+layout: default
+title: "Mary M. Olson"
+theme: jekyll-theme-minimal
+---
 
-<body>
+<style>
+    .center-text { text-align: center; }
+    .profile-container {
+        display: flex;
+        align-items: flex-start;
+        gap: 20px;
+        margin-top: 30px;
+    }
+    .profile-container img {
+        width: 180px;
+        border-radius: 8px;
+    }
+</style>
 
-<header>
-    <img src="Olson_Headshot - Mary Margaret Olson.jpg" alt="Mary M. Olson">
+<div class="center-text">
+    <h1>Mary M. Olson</h1>
+
+   <p>
+      <a href="index.md">Home</a> •
+      <a href="research.md">Research</a> •
+      <a href="press.md">Press & Interviews</a>
+   </p>
+</div>
+
+<div class="profile-container">
+    <img src="headshot.jpg" alt="Mary Olson">
+
     <div>
-        <h1>Mary M. Olson</h1>
+        <p>
+        I'm a Marshall Scholar and MSc Economics student at the London School of Economics (LSE)
+        with interests in labor and applied microeconomics. I'm particularly interested in leveraging
+        linked microdata to examine how technological shocks, policy changes, and economic change
+        shape individual and regional worker outcomes.
+        </p>
+
+        <p>
+        I hold a BA from Columbia University in Economics and an MSc in Economic History from LSE.
+        My master's thesis received the LSE prize for best MSc Economic History dissertation.
+        </p>
+
+        <p>
+          <a href="https://www.dropbox.com/scl/fi/iaryffm0qd9kfio0y850g/Olson_CV.pdf?rlkey=0sit8jeqh2ooz21478ukgb3ad&dl=0" target="_blank">View my CV</a>
+        </p>
     </div>
-</header>
+</div>
 
-<nav>
-    <a href="research.html">Research</a>
-    <a href="interviews.html">Interviews & Media</a>
-</nav>
+---
 
-<p>
-    I'm a Marshall Scholar and MSc Economics student at the London School of Economics (LSE) 
-    with interests in labor and applied microeconomics. I'm particularly interested in leveraging 
-    linked microdata to examine how technological shocks, policy changes, and economic change 
-    shape individual and regional worker outcomes.
-</p>
+### Contact
 
-<p>
-    I hold a BA from Columbia University in Economics and an MSc in Economic History from LSE. 
-    My master's thesis received the LSE prize for best MSc Economic History dissertation.
-</p>
-
-<p>
-    <a href="https://www.dropbox.com/scl/fi/iaryffm0qd9kfio0y850g/Olson_CV.pdf?rlkey=0sit8jeqh2ooz21478ukgb3ad&st=j7pafsx1&dl=0" target="_blank">View my CV</a>
-</p>
-
-</body>
-</html>
+📧 **m.m.olson [at] lse [dot] ac [dot] uk**  
+🐦 **[@marymolson](https://twitter.com/MaryMOlson98)**
