@@ -42,7 +42,7 @@ title: "Mary M. Olson"
 
         <p>
             I hold a BA from Columbia University in Economics and an MSc in Economic History from LSE.
-            My master's thesis received the LSE prize for best MSc Economic History dissertation.
+            My master's thesis received the The MSc Economic History Dissertation Prize from the LSE Department of Economic History.
         </p>
 
         <p>
