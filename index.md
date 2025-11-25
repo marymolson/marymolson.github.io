@@ -29,7 +29,7 @@ theme: jekyll-theme-minimal
 </div>
 
 <div class="profile-container">
-    <img src="headshot.jpg" alt="Mary Olson">
+    <img src="Olson_Headshot - Mary Margaret Olson.jpg" alt="Mary Olson">
 
     <div>
         <p>
