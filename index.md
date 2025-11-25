@@ -52,8 +52,8 @@ body {
 </div>
 
 <div class="contact">
-    📧 **m.m.olson [at] lse [dot] ac [dot] uk**<br>
-    🐦 **[@MaryMOlson98](https://twitter.com/MaryMOlson98)**
+    📧 m.m.olson [at] lse [dot] ac [dot] uk<br>
+    🐦 <a href="https://twitter.com/MaryMOlson98" target="_blank">@MaryMOlson98</a>
 </div>
 
 </body>
