@@ -22,7 +22,7 @@ theme: jekyll-theme-minimal
     <h1>Mary M. Olson</h1>
 
    <p>
-      <a href="index.md">Home</a> •
+      <a href="">Home</a> •
       <a href="research.md">Research</a> •
       <a href="press.md">Press & Interviews</a>
    </p>
