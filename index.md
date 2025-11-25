@@ -39,7 +39,7 @@
 <body>
 
 <header>
-    <img src="your_photo.jpg" alt="Mary Olson">
+    <img src="Olson_Headshot - Mary Margaret Olson.jpg" alt="Mary M. Olson">
     <div>
         <h1>Mary M. Olson</h1>
     </div>
